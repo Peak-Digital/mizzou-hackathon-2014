@@ -1,3 +1,5 @@
+package com.peak.GameTest;
+
 import com.leapmotion.leap.*;
 
 public class LeapListener extends Listener
